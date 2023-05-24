@@ -36,7 +36,7 @@ body{
 /* ! AddTask component Start */
 
 .AddTask-main-div{
-  @apply py-[150px]
+  @apply py-[150px] w-1/2 flex justify-center 
 }
 
 /* ! AddTask component End */
